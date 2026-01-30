@@ -1,2 +1,6 @@
 # curseralab
-Repo para los ejercicios de cursera
+Repo para los ejerciciosde Cursera 
+
+Adding some more details about the project description.
+I am editing the README file.
+Hello Moto
